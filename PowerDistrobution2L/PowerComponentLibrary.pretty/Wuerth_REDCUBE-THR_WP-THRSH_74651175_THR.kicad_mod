@@ -1,0 +1,284 @@
+(footprint "Wuerth_REDCUBE-THR_WP-THRSH_74651175_THR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "REDCUBE THR with internal through-hole thread WP-THRSH (https://www.we-online.de/katalog/datasheet/74651175.pdf)")
+	(tags "screw terminal thread redcube thr power connector")
+	(property "Reference" "J6"
+		(at 0 -6 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "3f72b11b-7bb3-4601-b29d-89a3787cbb63")
+		(effects
+			(font
+				(size 1.2 1.2)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Redcube"
+		(at 0 6 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3a79329b-92bf-4759-bf5e-dccea76ea927")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.we-online.com/components/products/datasheet/74651175.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1be025ee-2770-424a-88d4-09e1fcc0a3d9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "WE Redcube 74651175"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6c8e9809-3cba-474b-810f-c67b0b4c0589")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Part Number" "74651175"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "88b02d38-1054-4795-b3fe-be7c02ffc67d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "RS Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "90fc3fbe-a422-45ff-8032-91b8fc35c23c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole exclude_from_bom)
+	(fp_line
+		(start -3.7 1.2)
+		(end -3.7 -1.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "caec6b00-c2b5-4043-916c-3adac615e263")
+	)
+	(fp_line
+		(start -1.2 -3.7)
+		(end 1.2 -3.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d1f81ccc-3285-4392-8cfb-595577427b19")
+	)
+	(fp_line
+		(start 1.2 3.7)
+		(end -1.2 3.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ef5c1ce8-519f-460b-99dd-3894b7b003e6")
+	)
+	(fp_line
+		(start 3.7 -1.2)
+		(end 3.7 1.2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a8f50da0-9e79-418b-b639-89c2fb73ab5d")
+	)
+	(fp_line
+		(start -5.04 -5.04)
+		(end 5.04 -5.04)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "92857ee1-e6f6-4777-aee3-64e426775ecc")
+	)
+	(fp_line
+		(start -5.04 5.04)
+		(end -5.04 -5.04)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5958cc5d-6ea4-4947-a0b9-bc00d17db3a0")
+	)
+	(fp_line
+		(start 5.04 -5.04)
+		(end 5.04 5.04)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e26e3081-3150-4acb-9424-d1bb3849f54f")
+	)
+	(fp_line
+		(start 5.04 5.04)
+		(end -5.04 5.04)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "887c24fc-dc04-4f2a-a608-04c56f229d44")
+	)
+	(fp_line
+		(start -3.5 -3.5)
+		(end 3.5 -3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d8f2d869-45a0-463f-b303-934931286798")
+	)
+	(fp_line
+		(start -3.5 3.5)
+		(end -3.5 -3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4a54c24e-91d6-498c-8e4d-825cc7a5ecf5")
+	)
+	(fp_line
+		(start 3.5 -3.5)
+		(end 3.5 3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0122ad76-4de0-4305-8ad4-648509608838")
+	)
+	(fp_line
+		(start 3.5 3.5)
+		(end -3.5 3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a78c9fe3-fbe4-4342-822a-0b57c6ef0131")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "77937d8c-0d08-488d-864a-f73c15adc05f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" smd circle
+		(at -2.935 -2.935)
+		(size 3.1 3.1)
+		(layers "F.Paste")
+		(uuid "b9338671-d511-49dc-83b4-d101aef3fe02")
+	)
+	(pad "" smd circle
+		(at -2.935 2.935)
+		(size 3.1 3.1)
+		(layers "F.Paste")
+		(uuid "132b7429-a6d2-42a8-9c09-d84145c500f3")
+	)
+	(pad "" smd circle
+		(at 2.935 -2.935)
+		(size 3.1 3.1)
+		(layers "F.Paste")
+		(uuid "912b2a7a-90db-4c8f-812d-8a1bc8ee3d0c")
+	)
+	(pad "" smd circle
+		(at 2.935 2.935)
+		(size 3.1 3.1)
+		(layers "F.Paste")
+		(uuid "16d45ad4-4b7f-463f-83fe-f9422c7b1b79")
+	)
+	(pad "1" thru_hole circle
+		(at -2.935 -2.935)
+		(size 3.2 3.2)
+		(drill 1.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4bb7c884-a99a-477e-9d5c-59b61a2d608b")
+	)
+	(pad "1" thru_hole circle
+		(at -2.935 2.935)
+		(size 3.2 3.2)
+		(drill 1.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "b3796574-8f98-4006-b6a0-125eb2aa9f29")
+	)
+	(pad "1" thru_hole circle
+		(at 2.935 -2.935)
+		(size 3.2 3.2)
+		(drill 1.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6dd22719-6cdf-45dc-a5a6-173057acca1b")
+	)
+	(pad "1" thru_hole circle
+		(at 2.935 2.935)
+		(size 3.2 3.2)
+		(drill 1.85)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9da7aab1-9005-4b35-b861-5d246097a7d6")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/TerminalBlock_Wuerth.3dshapes/Wuerth_REDCUBE-THR_WP-THRSH_74651175_THR.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

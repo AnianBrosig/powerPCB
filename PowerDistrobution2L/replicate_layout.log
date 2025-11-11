@@ -1,0 +1,21 @@
+11-11 12:45:00 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 409:Plugin executed on: 'darwin'
+11-11 12:45:00 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 410:Plugin executed with python version: '3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) \n[Clang 13.0.0 (clang-1300.0.29.30)]'
+11-11 12:45:00 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 411:KiCad build version: 9.0.6
+11-11 12:45:00 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 412:Plugin version: 4.0.3
+11-11 12:45:00 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 413:Frame repr: <wx._core.Frame object at 0x1351380d0>
+11-11 12:45:00 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 437:Preparing replicator with U2 as a reference
+11-11 12:45:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+11-11 12:45:00 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 485:source anchor footprint is 'U2'
+Located on: ['/2L1/']
+With filenames: ['2L.kicad_sch']
+With sheet_id:['/2L1/']
+11-11 12:45:00 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 492:Corresponding footprints are 
+[('U2', ['/2L1/']), ('U3', ['/2L2/']), ('U5', ['/2L4/']), ('U4', ['/2L3/'])]
+11-11 12:45:00 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 504:Showing dialog
+11-11 12:45:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 472:constructing a list of sheets suitable for replication on level:'/2L1/', file:'2L.kicad_sch'
+11-11 12:45:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 509:suitable sheets are:[['/2L2/'], ['/2L3/'], ['/2L4/']]
+11-11 12:45:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1512:Level selected: ['/2L1/']
+11-11 12:45:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1336:Filtering list of tracks
+11-11 12:45:00 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 510:Toolbar position: wx.Point(1542, 121)
+11-11 12:45:00 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 515:Dialog position: wx.Point(1103, 121)
+11-11 12:45:20 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 329:User canceled the dialog

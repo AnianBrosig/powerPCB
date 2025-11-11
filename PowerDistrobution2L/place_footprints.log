@@ -1,0 +1,7 @@
+11-11 12:42:31 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 674:Plugin executed on: 'darwin'
+11-11 12:42:31 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 675:Plugin executed with python version: '3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) \n[Clang 13.0.0 (clang-1300.0.29.30)]'
+11-11 12:42:31 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 676:KiCad build version: 9.0.6
+11-11 12:42:31 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 677:Plugin version: 4.0.1
+11-11 12:42:31 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 678:Frame repr: <wx._core.Frame object at 0x1351380d0>
+11-11 12:42:31 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+11-11 12:42:31 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 717:Reference footprint='U2'
