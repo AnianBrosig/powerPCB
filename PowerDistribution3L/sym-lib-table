@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PowerPCB")(type "KiCad")(uri "${KIPRJMOD}/PowerPCB.kicad_sym")(options "")(descr ""))
+)
